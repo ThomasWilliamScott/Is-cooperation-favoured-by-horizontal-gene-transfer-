@@ -1,6 +1,6 @@
 # Is-cooperation-favoured-by-horizontal-gene-transfer-
 
-Supplementary code for Scott, West, Dewar and Wild (unpublished).
+Supplementary code for Scott, West, Dewar and Wild (Evolution Letters, 2023).
 
 This repository contains all code associated with the paper "Is cooperation favoured by horizontal gene transfer?" 
 
